@@ -16,14 +16,14 @@ msgstr ""
 #: themes/Impreza/framework/config/theme-options.php:24
 #, php-format
 msgid "Add or edit Header on the %s page"
-msgstr ""
+msgstr "Pridať alebo upraviť hlavičku na strane %s"
 
 #: plugins/us-header-builder/config/meta-boxes.php:16
 #: plugins/us-header-builder/us-header-builder.php:254
 #: themes/Impreza/framework/config/theme-options.php:24
 msgctxt "site top area"
 msgid "Headers"
-msgstr ""
+msgstr "Hlavičky"
 
 #: plugins/us-header-builder/config/meta-boxes.php:23
 #: themes/Impreza/framework/config/header-settings.php:89
@@ -34,7 +34,7 @@ msgstr "Prilepená hlavička"
 #: plugins/us-header-builder/config/meta-boxes.php:25
 #: plugins/us-header-builder/config/meta-boxes.php:47
 msgid "Override this setting"
-msgstr ""
+msgstr "Prepísať toto nastavenie"
 
 #: plugins/us-header-builder/config/meta-boxes.php:32
 #: plugins/us-header-builder/config/meta-boxes.php:54
@@ -78,7 +78,7 @@ msgstr "Šablóny záhlavia"
 #: plugins/us-header-builder/us-header-builder.php:367
 #, php-format
 msgid "Site Header %d"
-msgstr ""
+msgstr "Hlavička stránky %d"
 
 #: plugins/us-header-builder/us-header-builder.php:255
 #: themes/Impreza/config/assets.php:50
@@ -88,7 +88,7 @@ msgstr ""
 #: themes/Impreza/framework/config/theme-options.php:1191
 msgctxt "site top area"
 msgid "Header"
-msgstr ""
+msgstr "Hlavička"
 
 #: plugins/us-header-builder/us-header-builder.php:256
 #: plugins/us-header-builder/us-header-builder.php:257
@@ -107,7 +107,7 @@ msgstr "Editovať hlavičku"
 #: themes/Impreza/framework/admin/functions/grid-builder.php:42
 #: themes/Impreza/framework/functions/post-types.php:142
 msgid "Used in"
-msgstr ""
+msgstr "Použité v"
 
 #: plugins/us-header-builder/us-header-builder.php:304
 #: themes/Impreza/framework/config/theme-options.php:1186
@@ -120,7 +120,7 @@ msgstr "Prednastavené"
 #: themes/Impreza/framework/functions/post-types.php:21
 #: themes/Impreza/framework/functions/post-types.php:165
 msgid "Portfolio Pages"
-msgstr ""
+msgstr "Portfólio stránky"
 
 #: plugins/us-header-builder/us-header-builder.php:307
 #: themes/Impreza/framework/admin/functions/grid-builder.php:64
@@ -162,7 +162,7 @@ msgstr "Stránky obchodu"
 #: themes/Impreza/framework/admin/functions/grid-builder.php:82
 #: themes/Impreza/framework/functions/post-types.php:218
 msgid "edit in Theme Options"
-msgstr ""
+msgstr "upraviť v Nastaveniach témy"
 
 #: plugins/us-header-builder/us-header-builder.php:424
 msgid "Header Name"
@@ -171,11 +171,11 @@ msgstr "Názov hlavičky"
 #: plugins/us-header-builder/us-header-builder.php:434
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:285
 msgid "Header Export / Import"
-msgstr ""
+msgstr "Export / Import Hlavičky"
 
 #: plugins/us-header-builder/us-header-builder.php:437
 msgid "Choose Header template to start with"
-msgstr ""
+msgstr "Vyberte šablónu hlavičky, s ktorou sa má začať"
 
 #: plugins/us-header-builder/us-header-builder.php:471
 #: themes/Impreza/framework/admin/functions/grid-builder.php:234
@@ -218,7 +218,7 @@ msgstr "Odstrániť obal"
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:258
 #: themes/Impreza/framework/config/header-settings.php:738
 msgid "Links Menu"
-msgstr ""
+msgstr "Menu odkazov"
 
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:118
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:259
@@ -273,7 +273,7 @@ msgstr "Upraviť prvok"
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:115
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:196
 msgid "Duplicate element"
-msgstr ""
+msgstr "Duplikovať prvok"
 
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:153
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:254
@@ -343,6 +343,9 @@ msgid ""
 "import another Header replace the text in this field and click \"Import "
 "Header\" button."
 msgstr ""
+"Uloženú hlavičku môžete exportovať skopírovaním textu v tomto poli. Ak "
+"chcete importovať ďalšiu hlavičku, nahraďte text v tomto poli a kliknite na "
+"tlačidlo \"importovať hlavičku\"."
 
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:287
 msgid "Import Header"
@@ -371,11 +374,11 @@ msgstr "Formuláre"
 
 #: themes/Impreza/config/assets.php:60
 msgid "Preloader"
-msgstr ""
+msgstr "Preloader"
 
 #: themes/Impreza/config/assets.php:65
 msgid "Print styles"
-msgstr ""
+msgstr "Štýly tlače"
 
 #: themes/Impreza/config/assets.php:70
 msgid "Popups"
@@ -480,7 +483,7 @@ msgstr "Progress Bar"
 #: themes/Impreza/config/assets.php:173
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_scroller.php:14
 msgid "Page Scroller"
-msgstr ""
+msgstr "Page scroller"
 
 #: themes/Impreza/config/assets.php:183
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_separator.php:14
@@ -520,7 +523,7 @@ msgstr "White Alizarin"
 
 #: themes/Impreza/config/style-schemes.php:346
 msgid "White Sand"
-msgstr "White Sand "
+msgstr "White Sand"
 
 #: themes/Impreza/config/style-schemes.php:413
 msgid "White Royal"
@@ -532,7 +535,7 @@ msgstr "Fresh Mint"
 
 #: themes/Impreza/config/style-schemes.php:547
 msgid "White Purple"
-msgstr "White Purple "
+msgstr "White Purple"
 
 #: themes/Impreza/config/style-schemes.php:614
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_person.php:86
@@ -545,7 +548,7 @@ msgstr "Retro Package"
 
 #: themes/Impreza/config/style-schemes.php:748
 msgid "Red Modern"
-msgstr "Red Modern "
+msgstr "Red Modern"
 
 #: themes/Impreza/config/style-schemes.php:815
 msgid "Nautical Knot"
@@ -590,7 +593,7 @@ msgstr "Čierna-Zlatá"
 #: themes/Impreza/framework/admin/functions/about.php:54
 #, php-format
 msgid "Welcome to <strong>%s</strong>"
-msgstr "Vitejte <strong>%s</strong> "
+msgstr "Vitejte <strong>%s</strong>"
 
 #: themes/Impreza/framework/admin/functions/about.php:58
 msgid "Online Documentation"
@@ -607,7 +610,7 @@ msgstr "Theme Changelog"
 #: themes/Impreza/framework/admin/functions/about.php:71
 #, php-format
 msgid "%s is activated"
-msgstr " %s je aktivované"
+msgstr "%s je aktivované"
 
 #: themes/Impreza/framework/admin/functions/about.php:72
 #, php-format
@@ -617,7 +620,7 @@ msgstr "Deaktivácia je možná na stránke s vašimi %slicenciami%s."
 #: themes/Impreza/framework/admin/functions/about.php:115
 #, php-format
 msgid "%s is not activated"
-msgstr " %s nie je aktivovaný"
+msgstr "%s nie je aktivovaný"
 
 #: themes/Impreza/framework/admin/functions/about.php:119
 msgid "By activating theme license you will unlock premium options:"
@@ -627,14 +630,15 @@ msgstr "Aktivovaním licencie sprístupníte premiové možnosti:"
 msgid ""
 "Theme update notifications and ability to update the theme via one click"
 msgstr ""
+"Oznámenia o aktualizácii témy a možnosť aktualizovať tému na jedno kliknutie"
 
 #: themes/Impreza/framework/admin/functions/about.php:122
 msgid "Ability to install and update premium addons via one click"
-msgstr ""
+msgstr "Možnosť inštalovať a aktualizovať prémiové pluginy na jedno kliknutie"
 
 #: themes/Impreza/framework/admin/functions/about.php:123
 msgid "Ability to import any of theme demos"
-msgstr ""
+msgstr "Možnosť importovať ktorékoľvek z pripravených demo verzií"
 
 #: themes/Impreza/framework/admin/functions/about.php:125
 msgid "Don't have valid license yet?"
@@ -707,7 +711,7 @@ msgstr "Premium pluginy, dostupné zadarmo len s témou"
 #, php-format
 msgid "<a href=\"%s\">Activate the theme</a> to install premium addons"
 msgstr ""
-" <a href=\"%s\">Aktivujte tému</a>, aby ste mohli nainštalovať prémiové "
+"<a href=\"%s\">Aktivujte tému</a>, aby ste mohli nainštalovať prémiové "
 "pluginy"
 
 #: themes/Impreza/framework/admin/functions/addons.php:200
@@ -786,7 +790,7 @@ msgstr "Portfólio"
 #: themes/Impreza/framework/admin/functions/demo-import.php:110
 #, php-format
 msgid "Enable %s module"
-msgstr ""
+msgstr "Aktivovať plugin %s"
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:107
 #: themes/Impreza/framework/admin/functions/demo-import.php:110
@@ -833,11 +837,11 @@ msgstr ""
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:180
 msgid "Importing Demo Content..."
-msgstr "Importuje sa demo obshah"
+msgstr "Importuje sa demo obsah..."
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:181
 msgid "Don't close or refresh this page to not interrupt the import."
-msgstr "Kým sa nedokončí import, nezatvárajte ani neobnovujte túto stránku"
+msgstr "Kým sa nedokončí import, nezatvárajte ani neobnovujte túto stránku."
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:185
 msgid "Import completed"
@@ -850,7 +854,7 @@ msgid ""
 "start customize via <a href=\"%s\">Theme Options</a>."
 msgstr ""
 "Skontrolujte výsledok na <a href=\"%s\" target=\"_blank\">your site</a> "
-"alebo ju upravte na <a href=\"%s\">Theme Options</a>"
+"alebo ju upravte na <a href=\"%s\">Theme Options</a>."
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:197
 #, php-format
@@ -872,7 +876,7 @@ msgstr ""
 #: themes/Impreza/framework/admin/functions/demo-import.php:1233
 #, php-format
 msgid "Failed to import %s"
-msgstr ""
+msgstr "Nepodarilo sa importovať %s"
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:489
 #: themes/Impreza/framework/admin/functions/demo-import.php:554
@@ -887,12 +891,12 @@ msgstr ""
 #: themes/Impreza/framework/admin/functions/demo-import.php:1186
 #: themes/Impreza/framework/admin/functions/demo-import.php:1234
 msgid "Wrong path to the file or it is missing."
-msgstr ""
+msgstr "Nesprávna cesta k súboru alebo súbor chýba."
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:865
 #: themes/Impreza/framework/functions/widget_areas.php:130
 msgid "Custom Sidebar"
-msgstr ""
+msgstr "Vlastný bočný panel"
 
 #: themes/Impreza/framework/admin/functions/grid-builder.php:16
 #: themes/Impreza/framework/config/theme-options.php:2136
@@ -942,7 +946,7 @@ msgstr ""
 #: themes/Impreza/framework/admin/functions/grid-builder.php:198
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:234
 msgid "Export / Import"
-msgstr ""
+msgstr "Export/Import"
 
 #: themes/Impreza/framework/admin/functions/grid-builder.php:200
 #: themes/Impreza/framework/config/widgets.php:21
@@ -975,13 +979,13 @@ msgstr ""
 msgid ""
 "Allows you to create website headers with custom layout and any elements."
 msgstr ""
-"Umožňuje vytvoriť hlavičky stránky s vlastným rozložením a akýkomkoľvek "
-"elementom"
+"Umožňuje vytvoriť hlavičky stránky s vlastným rozložením a akýmkoľvek "
+"elementom."
 
 #: themes/Impreza/framework/config/addons.php:33
 msgid ""
 "Allows you to create attractive and interactive sliders and presentations."
-msgstr "Umožňuje vytvárať atraktívne a interaktívne slidere a prezentácie"
+msgstr "Umožňuje vytvárať atraktívne a interaktívne slidere a prezentácie."
 
 #: themes/Impreza/framework/config/addons.php:42
 msgid "Adds dozens of options and content elements to WPBakery Page Builder."
@@ -1004,7 +1008,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/addons.php:78
 msgid "Allows you to create an events calendar and manage it with ease."
-msgstr "Vytvorí kalendár udalostí a jeho spravovanie"
+msgstr "Vytvorí kalendár udalostí a jeho spravovanie."
 
 #: themes/Impreza/framework/config/cform.php:15
 msgid "Please enter your Name"
@@ -1033,7 +1037,7 @@ msgstr "Zadajte správu"
 
 #: themes/Impreza/framework/config/cform.php:37
 msgid "Just to prove you are a human, please solve the equation: "
-msgstr "Pre kontrolu, či ste človek, vyriešte rovnicu"
+msgstr "Pre kontrolu, či ste človek, vyriešte rovnicu: "
 
 #: themes/Impreza/framework/config/cform.php:39
 msgid "Please enter the equation result"
@@ -1049,21 +1053,21 @@ msgstr "Odoslať správu"
 
 #: themes/Impreza/framework/config/cform.php:49
 msgid "Thank you! Your message was sent."
-msgstr "Ďakujeme, Vaša správa bola odoslaná"
+msgstr "Ďakujeme, Vaša správa bola odoslaná."
 
 #: themes/Impreza/framework/config/cform.php:51
 msgid "Cannot send empty message. Please fill any of the fields."
-msgstr "Nie je možné odoslať prázdnu správu. Vyplňte všetky polia"
+msgstr "Nie je možné odoslať prázdnu správu. Vyplňte všetky polia."
 
 #: themes/Impreza/framework/config/cform.php:52
 msgid ""
 "Cannot send the message. Please contact the website administrator directly."
-msgstr "Nie je možné odoslať správu. Kontaktujte administrátora stránky"
+msgstr "Nie je možné odoslať správu. Kontaktujte administrátora stránky."
 
 #: themes/Impreza/framework/config/cform.php:54
 #, php-format
 msgid "New message from %s"
-msgstr "Nová správa od %s "
+msgstr "Nová správa od %s"
 
 #: themes/Impreza/framework/config/grid-settings.php:21
 #: themes/Impreza/framework/config/grid-settings.php:28
@@ -1078,19 +1082,19 @@ msgstr "Nová správa od %s "
 #: themes/Impreza/framework/config/header-settings.php:51
 #: themes/Impreza/framework/config/header-settings.php:57
 msgid "Design Options"
-msgstr ""
+msgstr "Možnosti dizajnu"
 
 #: themes/Impreza/framework/config/grid-settings.php:24
 msgid "Background Сolor"
-msgstr ""
+msgstr "Farba pozadia"
 
 #: themes/Impreza/framework/config/grid-settings.php:31
 msgid "Border Сolor"
-msgstr ""
+msgstr "Farba okraja"
 
 #: themes/Impreza/framework/config/grid-settings.php:38
 msgid "Text Сolor"
-msgstr ""
+msgstr "Farba textu"
 
 #: themes/Impreza/framework/config/grid-settings.php:45
 #: themes/Impreza/framework/config/mega-menu.php:28
@@ -1141,7 +1145,7 @@ msgstr "Vlastná šírka"
 #: themes/Impreza/framework/vendor/usof/templates/fields/icon.php:55
 #, php-format
 msgid "Examples: %s"
-msgstr "Príklady: %s "
+msgstr "Príklady: %s"
 
 #: themes/Impreza/framework/config/grid-settings.php:53
 #: themes/Impreza/framework/config/grid-settings.php:301
@@ -1151,11 +1155,11 @@ msgstr "Polomer okrajov"
 
 #: themes/Impreza/framework/config/grid-settings.php:63
 msgid "Hide the element when the screen width is less than"
-msgstr ""
+msgstr "Skryť element, keď je šírka obrazovky menšia ako"
 
 #: themes/Impreza/framework/config/grid-settings.php:83
 msgid "Enable hover effect"
-msgstr ""
+msgstr "Povoliť hover efekt"
 
 #: themes/Impreza/framework/config/grid-settings.php:84
 msgid "Change appearance of this element when hover on the whole Grid Layout"
@@ -1175,51 +1179,51 @@ msgstr ""
 #: themes/Impreza/framework/config/grid-settings.php:200
 #: themes/Impreza/framework/config/grid-settings.php:212
 msgid "Hover Effect"
-msgstr ""
+msgstr "Hover efekt"
 
 #: themes/Impreza/framework/config/grid-settings.php:91
 msgid "Opacity"
-msgstr ""
+msgstr "Priehľadnosť"
 
 #: themes/Impreza/framework/config/grid-settings.php:102
 msgid "Opacity on Hover"
-msgstr ""
+msgstr "Priehľadnosť pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:113
 msgid "Scale"
-msgstr ""
+msgstr "Mierka"
 
 #: themes/Impreza/framework/config/grid-settings.php:124
 msgid "Scale on Hover"
-msgstr ""
+msgstr "Mierka pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:135
 msgid "Horizontal Shift"
-msgstr ""
+msgstr "Horizontálny posun"
 
 #: themes/Impreza/framework/config/grid-settings.php:146
 msgid "Horizontal Shift on Hover"
-msgstr ""
+msgstr "Horizontálny posun pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:157
 msgid "Vertical Shift"
-msgstr ""
+msgstr "Vertikálny posun"
 
 #: themes/Impreza/framework/config/grid-settings.php:168
 msgid "Vertical Shift on Hover"
-msgstr ""
+msgstr "Vertikálny posun pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:179
 msgid "Background Сolor on Hover"
-msgstr ""
+msgstr "Farba pozadia menu po nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:187
 msgid "Border Сolor on Hover"
-msgstr ""
+msgstr "Farba orámovania pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:195
 msgid "Text Сolor on Hover"
-msgstr ""
+msgstr "Farba textu pri prechode myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:203
 msgid "Hover Transition Duration"
@@ -1400,7 +1404,7 @@ msgstr ""
 #: themes/Impreza/framework/config/theme-options.php:1815
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_page_title.php:22
 msgid "Font"
-msgstr ""
+msgstr "Typ písma"
 
 #: themes/Impreza/framework/config/grid-settings.php:415
 #: themes/Impreza/framework/config/grid-settings.php:503
@@ -1412,7 +1416,7 @@ msgstr ""
 #: themes/Impreza/framework/config/header-settings.php:550
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_page_title.php:32
 msgid "Bold"
-msgstr ""
+msgstr "Bold - tučné"
 
 #: themes/Impreza/framework/config/grid-settings.php:416
 #: themes/Impreza/framework/config/grid-settings.php:504
@@ -1449,7 +1453,7 @@ msgstr "Veľké písmená"
 #: themes/Impreza/framework/config/theme-options.php:1704
 #: themes/Impreza/framework/config/theme-options.php:1825
 msgid "Italic"
-msgstr ""
+msgstr "Italic - kurzíva"
 
 #: themes/Impreza/framework/config/grid-settings.php:423
 #: themes/Impreza/framework/config/grid-settings.php:510
@@ -1517,31 +1521,31 @@ msgstr "Výška riadku na mobiloch"
 #: themes/Impreza/framework/config/grid-settings.php:451
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_page_title.php:57
 msgid "HTML tag"
-msgstr ""
+msgstr "Značka HTML"
 
 #: themes/Impreza/framework/config/grid-settings.php:469
 msgid "Post Date"
-msgstr ""
+msgstr "Dátum príspevku"
 
 #: themes/Impreza/framework/config/grid-settings.php:474
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:105
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:203
 msgid "Date of creation"
-msgstr ""
+msgstr "Dátum vytvorenia"
 
 #: themes/Impreza/framework/config/grid-settings.php:475
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:106
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_builder.php:204
 msgid "Date of update"
-msgstr ""
+msgstr "Dátum aktualizácie"
 
 #: themes/Impreza/framework/config/grid-settings.php:480
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: themes/Impreza/framework/config/grid-settings.php:493
 msgid "Documentation on date and time formatting."
-msgstr ""
+msgstr "Dokumentácia pre formátovanie dátumu a času."
 
 #: themes/Impreza/framework/config/grid-settings.php:500
 #: themes/Impreza/framework/config/grid-settings.php:581
@@ -1577,7 +1581,7 @@ msgstr "Ikona"
 
 #: themes/Impreza/framework/config/grid-settings.php:533
 msgid "Post Taxonomy"
-msgstr ""
+msgstr "Taxonómia"
 
 #: themes/Impreza/framework/config/grid-settings.php:545
 #: themes/Impreza/framework/config/header-settings.php:586
@@ -1605,7 +1609,7 @@ msgstr ""
 #: themes/Impreza/framework/config/grid-settings.php:551
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_breadcrumbs.php:57
 msgid "Separator between items"
-msgstr ""
+msgstr "Oddeľovač medzi položkami"
 
 #: themes/Impreza/framework/config/grid-settings.php:561
 msgid "To a Post Archive"
@@ -1613,7 +1617,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/grid-settings.php:614
 msgid "Post Author"
-msgstr ""
+msgstr "Autor prispevku"
 
 #: themes/Impreza/framework/config/grid-settings.php:620
 msgid "To the page with the Author's posts"
@@ -1625,15 +1629,15 @@ msgstr ""
 
 #: themes/Impreza/framework/config/grid-settings.php:675
 msgid "Post Comments"
-msgstr ""
+msgstr "Komentáre"
 
 #: themes/Impreza/framework/config/grid-settings.php:679
 msgid "Show only number"
-msgstr ""
+msgstr "Zobraziť iba číslo"
 
 #: themes/Impreza/framework/config/grid-settings.php:739
 msgid "Post Content"
-msgstr ""
+msgstr "Obsah príspevku"
 
 #: themes/Impreza/framework/config/grid-settings.php:745
 msgid "Excerpt, if it's empty, show part of a content"
@@ -1645,31 +1649,31 @@ msgstr ""
 
 #: themes/Impreza/framework/config/grid-settings.php:747
 msgid "Part of a content"
-msgstr ""
+msgstr "Časť obsahu"
 
 #: themes/Impreza/framework/config/grid-settings.php:748
 msgid "Full content"
-msgstr ""
+msgstr "Celý obsah"
 
 #: themes/Impreza/framework/config/grid-settings.php:753
 msgid "Amount of words"
-msgstr ""
+msgstr "Počet slov"
 
 #: themes/Impreza/framework/config/grid-settings.php:754
 msgid "All HTML tags of a content will be stripped"
-msgstr ""
+msgstr "Všetky HTML tagy obsahu budú odstránené"
 
 #: themes/Impreza/framework/config/grid-settings.php:795
 msgid "Post Custom Field"
-msgstr ""
+msgstr "Vlastné pole"
 
 #: themes/Impreza/framework/config/grid-settings.php:804
 msgid "Custom Field Name"
-msgstr ""
+msgstr "Názov vlastného poľa"
 
 #: themes/Impreza/framework/config/grid-settings.php:805
 msgid "Enter custom field name to retrieve meta data value."
-msgstr ""
+msgstr "Zadajte vlastný názov poľa pre získanie hodnoty meta dát."
 
 #: themes/Impreza/framework/config/grid-settings.php:908
 #: themes/Impreza/framework/config/header-settings.php:1154
@@ -1942,17 +1946,17 @@ msgstr "Horizontálny obal"
 #: themes/Impreza/framework/config/grid-settings.php:1013
 #: themes/Impreza/framework/config/grid-settings.php:1047
 msgid "Content Horizontal Alignment"
-msgstr ""
+msgstr "Vodorovné zarovnanie obsahu"
 
 #: themes/Impreza/framework/config/grid-settings.php:1024
 #: themes/Impreza/framework/config/grid-settings.php:1058
 msgid "Content Vertical Alignment"
-msgstr ""
+msgstr "Zvislé zarovnanie obsahu"
 
 #: themes/Impreza/framework/config/grid-settings.php:1035
 #: themes/Impreza/framework/config/header-settings.php:427
 msgid "Allow move content to the next line"
-msgstr ""
+msgstr "Povoliť zalomenie obsahu do ďalšieho riadka"
 
 #: themes/Impreza/framework/config/grid-settings.php:1044
 #: themes/Impreza/framework/config/header-settings.php:1335
@@ -1961,7 +1965,7 @@ msgstr "Vertikálny obal"
 
 #: themes/Impreza/framework/config/grid-settings.php:1069
 msgid "Add a transparent gradient to the background"
-msgstr ""
+msgstr "Pridanie priehľadného gradientu na pozadie"
 
 #: themes/Impreza/framework/config/grid-templates.php:12
 msgid "Classic"
@@ -2065,7 +2069,7 @@ msgstr "Tento element sa schová, ak hlavička NIE JE sticky"
 
 #: themes/Impreza/framework/config/header-settings.php:66
 msgid "Apply when the screen width is less than"
-msgstr ""
+msgstr "Použiť, keď je šírka obrazovky menšia ako"
 
 #: themes/Impreza/framework/config/header-settings.php:80
 msgid "Orientation"
@@ -2472,7 +2476,7 @@ msgstr "Odsadenie prvkoch na mobiloch"
 
 #: themes/Impreza/framework/config/header-settings.php:848
 msgid "Placeholder Text"
-msgstr "Placeholder Text "
+msgstr "Placeholder Text"
 
 #: themes/Impreza/framework/config/header-settings.php:853
 #: themes/Impreza/framework/config/theme-options.php:970
@@ -2545,7 +2549,7 @@ msgstr "Bočný panel"
 #: themes/Impreza/framework/config/theme-options.php:36
 #, php-format
 msgid "Add or edit Sidebar on the %s page"
-msgstr "Pridať alebo editovať Sidebar na stránke %s "
+msgstr "Pridať alebo editovať Sidebar na stránke %s"
 
 #: themes/Impreza/framework/config/header-settings.php:995
 msgid "Open Dropdown"
@@ -2666,7 +2670,7 @@ msgstr "Bloky stránky"
 #: themes/Impreza/framework/config/theme-options.php:31
 #, php-format
 msgid "Add or edit Footer on the %s page"
-msgstr "Pridať alebo editovať Pätičku na stránke %s "
+msgstr "Pridať alebo editovať Pätičku na stránke %s"
 
 #: themes/Impreza/framework/config/meta-boxes.php:25
 #: themes/Impreza/framework/config/theme-options.php:1981
@@ -2695,7 +2699,7 @@ msgstr "Štandardné"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_person.php:73
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_tabs.php:40
 msgid "Trendy"
-msgstr "Trendy "
+msgstr "Trendy"
 
 #: themes/Impreza/framework/config/meta-boxes.php:46
 msgid "Page Layout"
@@ -2757,7 +2761,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/meta-boxes.php:177
 msgid "Custom Size"
-msgstr ""
+msgstr "Vlastná veľkosť"
 
 #: themes/Impreza/framework/config/meta-boxes.php:188
 #: themes/Impreza/framework/config/widgets.php:300
@@ -2891,7 +2895,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/theme-options.php:221
 msgid "Enable \"503 Service Unavailable\" status"
-msgstr "Povoliť status \"503 Service Unavailable\" "
+msgstr "Povoliť \"503 Service Unavailable\" status"
 
 #: themes/Impreza/framework/config/theme-options.php:232
 msgid "Preloader Screen"
@@ -2906,10 +2910,9 @@ msgstr "Deaktivované"
 #: themes/Impreza/framework/config/theme-options.php:238
 #: themes/Impreza/framework/config/theme-options.php:239
 #: themes/Impreza/framework/config/theme-options.php:240
-#, fuzzy, php-format
-#| msgid "Shows Preloader %d"
+#, php-format
 msgid "Shows Preloader %d"
-msgstr "Ukázať načítanosť"
+msgstr "Ukázať Preloader %d"
 
 #: themes/Impreza/framework/config/theme-options.php:241
 msgid "Shows Custom Image"
@@ -2941,7 +2944,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/theme-options.php:270
 msgid "\"Back to top\" Button"
-msgstr "Tlačidlo \"Nahor\""
+msgstr "Tlačidlo \"Späť nahor\""
 
 #: themes/Impreza/framework/config/theme-options.php:272
 msgid "Enable button which allows scroll a page back to the top"
@@ -2970,7 +2973,7 @@ msgstr "Google Maps API Key"
 
 #: themes/Impreza/framework/config/theme-options.php:321
 msgid "The API key is required for the domains created after June 22, 2016."
-msgstr "API key je povinný pre domény vytvorené po 22.6.2016"
+msgstr "API key je povinný pre domény vytvorené po 22.6.2016."
 
 #: themes/Impreza/framework/config/theme-options.php:321
 msgid "Get API key"
@@ -3024,7 +3027,7 @@ msgstr ""
 #: themes/Impreza/framework/config/theme-options.php:426
 #: themes/Impreza/framework/config/theme-options.php:435
 msgid "Used for pages with sidebar."
-msgstr "Použité pre stránky s bočným paneloom"
+msgstr "Použité pre stránky s bočným panelom."
 
 #: themes/Impreza/framework/config/theme-options.php:434
 msgid "Content Width"
@@ -3328,7 +3331,7 @@ msgstr "Prvky hlavičky"
 
 #: themes/Impreza/framework/config/theme-options.php:1014
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: themes/Impreza/framework/config/theme-options.php:1044
 #: themes/Impreza/framework/config/theme-options.php:1091
@@ -3362,6 +3365,8 @@ msgid ""
 "To display different website headers based on page type, install %sHeader "
 "Builder addon%s."
 msgstr ""
+"Ak chcete zobraziť rôzne hlavičky podľa typu stránky, nainštalujte doplnok "
+"%sHeader Builder %s."
 
 #: themes/Impreza/framework/config/theme-options.php:1247
 msgid "Typography"
@@ -3400,7 +3405,7 @@ msgstr "Náhľad fontu hlavičiek"
 #: themes/Impreza/framework/config/theme-options.php:1783
 #: themes/Impreza/framework/config/theme-options.php:1838
 msgid "Font Weight"
-msgstr ""
+msgstr "Hrúbka písma"
 
 #: themes/Impreza/framework/config/theme-options.php:1376
 #: themes/Impreza/framework/config/theme-options.php:1439
@@ -3414,43 +3419,43 @@ msgstr "Medzery medzi písmenami"
 
 #: themes/Impreza/framework/config/theme-options.php:1715
 msgid "Additional Google Fonts"
-msgstr ""
+msgstr "Ďalšie Google fonty"
 
 #: themes/Impreza/framework/config/theme-options.php:1726
 msgid "Google Font Preview"
-msgstr ""
+msgstr "Google font preview"
 
 #: themes/Impreza/framework/config/theme-options.php:1735
 msgid "Google Fonts Subset"
-msgstr ""
+msgstr "Google Fonts Subset"
 
 #: themes/Impreza/framework/config/theme-options.php:1740
 #, php-format
 msgid "Check available languages for needed fonts on %s website"
-msgstr ""
+msgstr "Skontrolujte dostupné jazyky pre potrebné písma na webovej lokalite %s"
 
 #: themes/Impreza/framework/config/theme-options.php:1760
 #: themes/Impreza/framework/functions/helpers.php:1019
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:35
 msgid "Uploaded Fonts"
-msgstr ""
+msgstr "Nahraté písma"
 
 #: themes/Impreza/framework/config/theme-options.php:1765
 #, php-format
 msgid "Add custom fonts via uploading %s files."
-msgstr ""
+msgstr "Pridať vlastné písma prostredníctvom nahrávania súborov %s."
 
 #: themes/Impreza/framework/config/theme-options.php:1765
 msgid "Read about usage of uploaded fonts"
-msgstr ""
+msgstr "Prečítajte si o používaní nahratých písiem"
 
 #: themes/Impreza/framework/config/theme-options.php:1777
 msgid "Font Name"
-msgstr ""
+msgstr "Názov písma"
 
 #: themes/Impreza/framework/config/theme-options.php:1792
 msgid "Font Files"
-msgstr ""
+msgstr "Súbory písiem"
 
 #: themes/Impreza/framework/config/theme-options.php:1830
 msgid "Default Font Size"
@@ -3466,7 +3471,7 @@ msgstr "Relatívna šírka"
 
 #: themes/Impreza/framework/config/theme-options.php:1897
 msgid "Reverse"
-msgstr ""
+msgstr "Opačne"
 
 #: themes/Impreza/framework/config/theme-options.php:1918
 msgid "Intermediate Breadcrumbs Page"
@@ -3484,11 +3489,12 @@ msgstr "Predch./nasled. navigácia"
 #: themes/Impreza/framework/config/theme-options.php:1932
 msgid "Show previous/next portfolio pages on sides of the screen"
 msgstr ""
+"Zobraziť predchádzajúce/nasledujúce stránky portfólia na stranách obrazovky"
 
 #: themes/Impreza/framework/config/theme-options.php:1937
 #: themes/Impreza/framework/config/theme-options.php:2081
 msgid "Invert position of previous and next"
-msgstr "Vymeniť pozíciu predch. a nasl."
+msgstr "Vymeniť pozície predch. a nasl. tlačidiel"
 
 #: themes/Impreza/framework/config/theme-options.php:1944
 #: themes/Impreza/framework/config/theme-options.php:2087
@@ -3544,7 +3550,7 @@ msgstr "Zobraziť odkazy na predch./nasl. články"
 
 #: themes/Impreza/framework/config/theme-options.php:2073
 msgid "Below a post content"
-msgstr ""
+msgstr "Za obsahom článku"
 
 #: themes/Impreza/framework/config/theme-options.php:2074
 msgid "On sides of the screen"
@@ -3567,28 +3573,28 @@ msgstr "Príspevky s tými istými kategóriami"
 #: themes/Impreza/framework/config/widgets.php:214
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:148
 msgid "By date of creation (newer first)"
-msgstr ""
+msgstr "Podľa dátumu vytvorenia (novší prvý)"
 
 #: themes/Impreza/framework/config/theme-options.php:2126
 #: themes/Impreza/framework/config/widgets.php:165
 #: themes/Impreza/framework/config/widgets.php:215
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:149
 msgid "By date of creation (older first)"
-msgstr ""
+msgstr "Podľa dátumu vytvorenia (starší prvý)"
 
 #: themes/Impreza/framework/config/theme-options.php:2127
 #: themes/Impreza/framework/config/widgets.php:166
 #: themes/Impreza/framework/config/widgets.php:216
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:150
 msgid "By date of update (newer first)"
-msgstr ""
+msgstr "Podľa dátumu aktualizácie (novší prvý)"
 
 #: themes/Impreza/framework/config/theme-options.php:2128
 #: themes/Impreza/framework/config/widgets.php:167
 #: themes/Impreza/framework/config/widgets.php:217
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:151
 msgid "By date of update (older first)"
-msgstr ""
+msgstr "Podľa dátumu aktualizácie (starší prvý)"
 
 #: themes/Impreza/framework/config/theme-options.php:2129
 #: themes/Impreza/framework/config/widgets.php:168
@@ -3629,7 +3635,7 @@ msgstr "Stĺpce článkov"
 #: themes/Impreza/framework/config/theme-options.php:2295
 #: themes/Impreza/framework/config/theme-options.php:2356
 msgid "Gap between Posts"
-msgstr ""
+msgstr "Medzera medzi príspevkami"
 
 #: themes/Impreza/framework/config/theme-options.php:2212
 #: themes/Impreza/framework/config/theme-options.php:2273
@@ -3643,7 +3649,7 @@ msgstr "Zobraziť príspevky ako"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gallery.php:31
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:136
 msgid "Regular Grid"
-msgstr ""
+msgstr "Pravidelná mriežka"
 
 #: themes/Impreza/framework/config/theme-options.php:2216
 #: themes/Impreza/framework/config/theme-options.php:2277
@@ -3659,21 +3665,21 @@ msgstr "Masonry"
 #: themes/Impreza/framework/config/theme-options.php:2368
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:208
 msgid "Numbered pagination"
-msgstr ""
+msgstr "Číslované stránkovanie"
 
 #: themes/Impreza/framework/config/theme-options.php:2247
 #: themes/Impreza/framework/config/theme-options.php:2308
 #: themes/Impreza/framework/config/theme-options.php:2369
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:209
 msgid "Load items on button click"
-msgstr ""
+msgstr "Načítať položky po kliknutí na tlačidlo"
 
 #: themes/Impreza/framework/config/theme-options.php:2248
 #: themes/Impreza/framework/config/theme-options.php:2309
 #: themes/Impreza/framework/config/theme-options.php:2370
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:210
 msgid "Load items on page scroll"
-msgstr ""
+msgstr "Pri scrollovaní načítať ďalšie položky tabuľky"
 
 #: themes/Impreza/framework/config/theme-options.php:2387
 #: themes/Impreza/framework/config/theme-options.php:2421
@@ -3744,7 +3750,7 @@ msgstr "Nezobrazovať prednastavený nadpis a mininavigáciu"
 #: themes/Impreza/framework/config/theme-options.php:2550
 msgctxt "Advanced Settings"
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 #: themes/Impreza/framework/config/theme-options.php:2554
 msgid "Theme Modules"
@@ -3910,7 +3916,7 @@ msgstr ""
 "You can transfer the saved options data between different installations by "
 "copying the text inside the text box. To import data from another "
 "installation, replace the data in the text box with the one from another "
-"installation and click \"Import Options\". "
+"installation and click \"Import Options\"."
 
 #: themes/Impreza/framework/config/widgets.php:88
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_contacts.php:20
@@ -3971,31 +3977,31 @@ msgstr ""
 #: themes/Impreza/framework/config/widgets.php:262
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:74
 msgid "With light background"
-msgstr ""
+msgstr "So svetlým pozadím"
 
 #: themes/Impreza/framework/config/widgets.php:279
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:136
 msgid "Icons Shape"
-msgstr ""
+msgstr "Tvar ikoniek"
 
 #: themes/Impreza/framework/config/widgets.php:281
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:139
 msgid "Square"
-msgstr ""
+msgstr "Štvorec"
 
 #: themes/Impreza/framework/config/widgets.php:282
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:140
 msgid "Rounded Square"
-msgstr ""
+msgstr "Štvorec so zaoblenými rohmi"
 
 #: themes/Impreza/framework/config/widgets.php:283
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:141
 msgid "Circle"
-msgstr ""
+msgstr "Kruh"
 
 #: themes/Impreza/framework/config/widgets.php:305
 msgid "Custom Link Title"
-msgstr ""
+msgstr "Nadpis vlastného linku"
 
 #: themes/Impreza/framework/config/widgets.php:310
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_person.php:160
@@ -4004,7 +4010,7 @@ msgstr "Ikona vlastného odkazu"
 
 #: themes/Impreza/framework/config/widgets.php:315
 msgid "Custom Link Color"
-msgstr ""
+msgstr "Farba vlastného linku"
 
 #: themes/Impreza/framework/functions/ajax/cform.php:99
 msgid "Someone"
@@ -4023,47 +4029,47 @@ msgstr "napísal"
 #: themes/Impreza/framework/functions/ajax/cform.php:158
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_cform.php:99
 msgid "Agreement text"
-msgstr ""
+msgstr "Text súhlasu"
 
 #: themes/Impreza/framework/functions/ajax/cform.php:159
 msgid "Agreement date and time"
-msgstr ""
+msgstr "Dátum a čas súhlasu"
 
 #: themes/Impreza/framework/functions/ajax/cform.php:160
 msgid "IP address"
-msgstr ""
+msgstr "IP adresa"
 
 #: themes/Impreza/framework/functions/header.php:607
 #: themes/Impreza/framework/functions/menu.php:138
 msgid "Custom Menu"
-msgstr ""
+msgstr "Vlastné menu"
 
 #: themes/Impreza/framework/functions/helpers.php:894
 #: themes/Impreza/framework/functions/post-types.php:20
 msgid "Portfolio Page"
-msgstr ""
+msgstr "Portfólio"
 
 #: themes/Impreza/framework/functions/helpers.php:898
 msgid "Custom Field"
-msgstr ""
+msgstr "Vlastné pole"
 
 #: themes/Impreza/framework/functions/helpers.php:1002
 msgid "used in regular text"
-msgstr ""
+msgstr "použité v bežnom texte"
 
 #: themes/Impreza/framework/functions/helpers.php:1004
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:94
 msgid "No font specified"
-msgstr ""
+msgstr "Nie je zadané žiadne písmo"
 
 #: themes/Impreza/framework/functions/helpers.php:1010
 msgid "used in headings"
-msgstr ""
+msgstr "použité v nadpisoch"
 
 #: themes/Impreza/framework/functions/helpers.php:1039
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:107
 msgid "Google Fonts (loaded from Google servers)"
-msgstr ""
+msgstr "Google fonty (načítané zo serverov Google)"
 
 #: themes/Impreza/framework/functions/helpers.php:1052
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:100
@@ -4073,7 +4079,7 @@ msgstr "Web safe fonty"
 #: themes/Impreza/framework/functions/post-types.php:22
 #: themes/Impreza/framework/functions/post-types.php:23
 msgid "Add Portfolio Page"
-msgstr ""
+msgstr "Pridať stránku portfólia"
 
 #: themes/Impreza/framework/functions/post-types.php:24
 msgid "Edit Portfolio Page"
@@ -4103,12 +4109,12 @@ msgstr "Kategórie pre Testimonials"
 
 #: themes/Impreza/framework/functions/post-types.php:104
 msgid "Sidebars"
-msgstr ""
+msgstr "Bočné panely"
 
 #: themes/Impreza/framework/functions/post-types.php:117
 #: themes/Impreza/framework/functions/post-types.php:274
 msgid "Page Block"
-msgstr ""
+msgstr "Blok stránky"
 
 #: themes/Impreza/framework/functions/post-types.php:118
 #: themes/Impreza/framework/functions/post-types.php:119
@@ -4141,15 +4147,15 @@ msgstr "Zobraziť nadpis a popis položiek"
 
 #: themes/Impreza/framework/functions/widget_areas.php:36
 msgid "Sidebar Name"
-msgstr ""
+msgstr "Názov bočného panelu"
 
 #: themes/Impreza/framework/functions/widget_areas.php:37
 msgid "Add Sidebar"
-msgstr ""
+msgstr "Pridať bočný panel"
 
 #: themes/Impreza/framework/functions/widget_areas.php:40
 msgid "Do you really want to delete this sidebar?"
-msgstr ""
+msgstr "Naozaj chcete zmazať tento bočný panel?"
 
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:228
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:230
@@ -4158,18 +4164,18 @@ msgstr ""
 #: themes/Impreza/framework/plugins-support/woocommerce/woocommerce.php:198
 #: themes/Impreza/framework/plugins-support/woocommerce/woocommerce.php:200
 msgid "any"
-msgstr ""
+msgstr "ľubovoľný"
 
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:232
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:252
 #: themes/Impreza/framework/plugins-support/woocommerce/woocommerce.php:202
 msgid "cropped"
-msgstr "Orezaný"
+msgstr "orezaný"
 
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:431
 #: themes/Impreza/framework/vendor/usof/templates/fields/icon.php:55
 msgid "Enter icon name from the list"
-msgstr ""
+msgstr "Zadajte názov ikony zo zoznamu"
 
 #: themes/Impreza/framework/plugins-support/js_composer/js_composer.php:472
 #: themes/Impreza/framework/vendor/usof/templates/fields/grid_layout_select.php:48
@@ -4291,7 +4297,7 @@ msgstr "Pole captcha"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_cform.php:88
 msgid "Agreement Checkbox"
-msgstr ""
+msgstr "Checkbox so súhlasom"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_counter.php:21
 msgid "The initial number value"
@@ -4442,7 +4448,7 @@ msgstr "Text značkovaču"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gmaps.php:31
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gmaps.php:80
 msgid "Enter your content, HTML tags are allowed."
-msgstr "Vložte Váš obsah, HTML tagy sú umožnené"
+msgstr "Vložte Váš obsah, HTML tagy sú povolené."
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gmaps.php:39
 msgid "Show Marker Text when map is loaded"
@@ -4480,7 +4486,7 @@ msgstr "Satellite"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gmaps.php:120
 msgid "Satellite + Roadmap"
-msgstr "Satellite + Roadmap "
+msgstr "Satellite + Roadmap"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gmaps.php:127
 msgid "Map Height (pixels)"
@@ -4522,7 +4528,7 @@ msgstr "Štýl mapy"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:35
 #, php-format
 msgid "Filter by %s"
-msgstr ""
+msgstr "Filtrovať podľa %s"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:78
 #, php-format
@@ -4547,7 +4553,7 @@ msgstr "Ak zostane prázdne, zobrazia sa všetky položky"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:185
 msgid "Exclude Items"
-msgstr ""
+msgstr "Vylúčiť položky"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_grid.php:189
 msgid "by the given quantity from the beginning of output"
@@ -4831,7 +4837,7 @@ msgstr "Cena"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_pricing.php:49
 #: themes/Zephyr/plugins-support/js_composer/map/us_pricing.php:58
 msgid "Price Substring"
-msgstr "Price Substring "
+msgstr "Price Substring"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_pricing.php:56
 #: themes/Zephyr/plugins-support/js_composer/map/us_pricing.php:65
@@ -4949,7 +4955,7 @@ msgstr "Show counters"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_sharing.php:67
 msgid "Don't show counters"
-msgstr "Don't show counters "
+msgstr "Nezobrazovať počítadlá"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_sharing.php:131
 msgid "Sharing URL (optional)"
@@ -5152,7 +5158,7 @@ msgid ""
 msgstr ""
 "Background Image, Background Video, Background Overlay settings located "
 "below will override the settings located at \"Background\" and \"Effect\" "
-"tabs. "
+"tabs."
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row.php:288
 msgid "Background Slider"
@@ -5160,7 +5166,7 @@ msgstr ""
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_accordion.php:35
 msgid "Act as Toggles"
-msgstr "Act as Toggles "
+msgstr "Act as Toggles"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_accordion.php:37
 msgid "Allow several sections to be opened at the same time"
@@ -5172,7 +5178,7 @@ msgstr "Zarovnanie nadpisu"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_accordion.php:84
 msgid "Select accordion navigation icon."
-msgstr "Zvoliť ikonu navigácie harmoniky"
+msgstr "Zvoliť ikonu navigácie accordionu."
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_accordion.php:88
 msgid "Chevron"
@@ -5188,7 +5194,7 @@ msgstr "Trojuholník"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_accordion.php:99
 msgid "Select accordion navigation icon position."
-msgstr "Zvoliť polohu ikonu navigácie harmoniky"
+msgstr "Zvoliť polohu ikonu navigácie accordionu."
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_tta_section.php:44
 msgid "Show this section after page loading"
@@ -5292,17 +5298,15 @@ msgstr "Pin"
 #: themes/Impreza/framework/templates/404.php:80
 msgid "The link you followed may be broken, or the page may have been removed."
 msgstr ""
-"Odkaz na ktorý odkazuješ je asi poškodený, alebo bola stránka odstránená"
+"Odkaz ,na ktorý odkazujete, je asi poškodený, alebo bola stránka odstránená."
 
 #: themes/Impreza/framework/templates/author.php:43
-#, fuzzy, php-format
-#| msgid "%s post"
-#| msgid_plural "%s posts"
+#, php-format
 msgid "%s post"
 msgid_plural "%s posts"
-msgstr[0] " %s príspevok"
-msgstr[1] " %s príspevkov"
-msgstr[2] ""
+msgstr[0] "%s príspevok"
+msgstr[1] "%s príspevky"
+msgstr[2] "%s príspevkov"
 
 #: themes/Impreza/framework/templates/elements/cart.php:36
 msgid "was added to your cart"
@@ -5392,7 +5396,7 @@ msgstr "Obnoviť nastavenia"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/backup.php:46
 msgid "Are you sure want to restore options from the backup?"
-msgstr "Ste si istý obnoviť nastavenia zo zálohy?"
+msgstr "Ste si istý, že chcete obnoviť nastavenia zo zálohy?"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/button_preview.php:37
 #: themes/Impreza/framework/vendor/usof/templates/fields/button_preview.php:41
@@ -5480,7 +5484,7 @@ msgstr "Resetovať nastavenia"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/reset.php:24
 msgid "Are you sure want to reset all the options to default values?"
-msgstr "Ste si istý že chcete resetovať všetky hodnoty na predvolené?"
+msgstr "Ste si istý, že chcete resetovať všetky hodnoty na predvolené?"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/style_scheme.php:68
 msgid "Color Scheme Name"
@@ -5489,16 +5493,16 @@ msgstr "Názov farebnej schémy"
 #: themes/Impreza/framework/vendor/usof/templates/fields/style_scheme.php:69
 msgctxt "color scheme"
 msgid "Save as new"
-msgstr ""
+msgstr "Uložiť ako nové"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/style_scheme.php:72
 msgctxt "color scheme"
 msgid "Save current"
-msgstr ""
+msgstr "Uložiť aktuálne"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/style_scheme.php:85
 msgid "Are you sure want to delete this Color Scheme?"
-msgstr "Ste si istý že chcete vymazať túto farebnú schému"
+msgstr "Ste si istý, že chcete vymazať túto farebnú schému?"
 
 #: themes/Impreza/framework/vendor/usof/templates/fields/transfer.php:20
 msgctxt "verb"
@@ -5532,7 +5536,7 @@ msgstr "Zdvihnutý"
 
 #: themes/Zephyr/config/style-schemes.php:11
 msgid "Purple White"
-msgstr "Purple White "
+msgstr "Purple White"
 
 #: themes/Zephyr/config/style-schemes.php:66
 msgid "Teal Serenity"
@@ -5564,7 +5568,7 @@ msgstr "Obrátané farby"
 
 #: themes/Zephyr/config/widgets.php:17
 msgid "Desaturated Inverted"
-msgstr "Desaturated Inverted "
+msgstr "Desaturated Inverted"
 
 #: themes/Zephyr/plugins-support/js_composer/map/us_btn.php:30
 #: themes/Zephyr/plugins-support/js_composer/map/us_cform.php:29
