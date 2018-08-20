@@ -11,3 +11,6 @@ Support forum:
 https://help.us-themes.com/impreza/translation/translating/
 
 
+More info in Slovak:
+https://www.jmsupport.sk/tvorba-webovych-stranok/webove-stranky-s-temou-impreza/
+
