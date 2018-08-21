@@ -593,7 +593,7 @@ msgstr "Čierna-Zlatá"
 #: themes/Impreza/framework/admin/functions/about.php:54
 #, php-format
 msgid "Welcome to <strong>%s</strong>"
-msgstr "Vitejte <strong>%s</strong>"
+msgstr "Víta vás <strong>%s</strong>"
 
 #: themes/Impreza/framework/admin/functions/about.php:58
 msgid "Online Documentation"
@@ -605,12 +605,12 @@ msgstr "Portál podpory"
 
 #: themes/Impreza/framework/admin/functions/about.php:64
 msgid "Theme Changelog"
-msgstr "Theme Changelog"
+msgstr "Changelog témy"
 
 #: themes/Impreza/framework/admin/functions/about.php:71
 #, php-format
 msgid "%s is activated"
-msgstr "%s je aktivované"
+msgstr "%s je aktivovaná"
 
 #: themes/Impreza/framework/admin/functions/about.php:72
 #, php-format
@@ -634,7 +634,8 @@ msgstr ""
 
 #: themes/Impreza/framework/admin/functions/about.php:122
 msgid "Ability to install and update premium addons via one click"
-msgstr "Možnosť inštalovať a aktualizovať prémiové pluginy na jedno kliknutie"
+msgstr ""
+"Možnosť inštalovať a aktualizovať prémiové rozšírenia na jedno kliknutie"
 
 #: themes/Impreza/framework/admin/functions/about.php:123
 msgid "Ability to import any of theme demos"
@@ -659,10 +660,12 @@ msgid ""
 "%s comes with popular plugins which increase theme abilities, install them "
 "via one click."
 msgstr ""
+"%s je dodávaná s populárnymi rozšíreniami, ktoré zvyšujú možnosti témy, "
+"nainštalujete ich na jedno kliknutie."
 
 #: themes/Impreza/framework/admin/functions/about.php:139
 msgid "Go to Addons page"
-msgstr "Prejsť na stránku rozšírení"
+msgstr "Prejsť na Rozšírenia"
 
 #: themes/Impreza/framework/admin/functions/about.php:142
 msgid "Import Demo Content"
@@ -673,10 +676,12 @@ msgid ""
 "Installed this theme for the first time? Import demo content to build your "
 "site not from scratch."
 msgstr ""
+"Inštalujete túto tému po prvý raz? S importovaním demo verzie nemusíte začať "
+"úplne od začiatku."
 
 #: themes/Impreza/framework/admin/functions/about.php:146
 msgid "Go to Demo Import"
-msgstr "Prejsť na importovanie dema"
+msgstr "Prejsť na Import demoverzie"
 
 #: themes/Impreza/framework/admin/functions/about.php:149
 msgid "Customize Appearance"
@@ -687,10 +692,12 @@ msgid ""
 "To customize the look of your site (colors, layouts, fonts) go to the Theme "
 "Options panel."
 msgstr ""
+"Na vlastné úpravy vzhľadu vašej stránky (farby, rozloženie, fonty) prejdite "
+"na Nastavení témy"
 
 #: themes/Impreza/framework/admin/functions/about.php:152
 msgid "Go to Theme Options"
-msgstr "Prejsť do nastavenia témy"
+msgstr "Prejsť na Nastavenia témy"
 
 #: themes/Impreza/framework/admin/functions/addons.php:37
 #: themes/Impreza/framework/admin/functions/addons.php:45
@@ -712,7 +719,7 @@ msgstr "Premium pluginy, dostupné zadarmo len s témou"
 msgid "<a href=\"%s\">Activate the theme</a> to install premium addons"
 msgstr ""
 "<a href=\"%s\">Aktivujte tému</a>, aby ste mohli nainštalovať prémiové "
-"pluginy"
+"rozšírenia"
 
 #: themes/Impreza/framework/admin/functions/addons.php:200
 msgid "Free plugins, compatible with the theme"
@@ -728,7 +735,7 @@ msgstr "Upravte práva k súborom a umožnite inštaláciu pluginov"
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:15
 msgid "Demo Import"
-msgstr "Importovanie dema"
+msgstr "Import demoverzie"
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:34
 #, php-format
@@ -740,7 +747,7 @@ msgstr ""
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:40
 msgid "Choose the demo for import"
-msgstr "Vyberte demo pre importovanie"
+msgstr "Vyberte demoverziu pre import"
 
 #: themes/Impreza/framework/admin/functions/demo-import.php:41
 msgid ""
@@ -1215,7 +1222,7 @@ msgstr "Vertikálny posun pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:179
 msgid "Background Сolor on Hover"
-msgstr "Farba pozadia menu po nábehu myšou"
+msgstr "Farba pozadia menu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/grid-settings.php:187
 msgid "Border Сolor on Hover"
@@ -2315,7 +2322,7 @@ msgstr "Roztiahnuť na plnú dostupnú šírku"
 
 #: themes/Impreza/framework/config/header-settings.php:583
 msgid "Main Items Hover Effect"
-msgstr "Efekt hlavných prvkov po prejdení myšou"
+msgstr "Efekt hlavných prvkov pri nábehu myšou"
 
 #: themes/Impreza/framework/config/header-settings.php:592
 msgid "Dropdown Indication"
@@ -2612,7 +2619,7 @@ msgstr "Odkaz (farba témy)"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_logos.php:74
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_social_links.php:83
 msgid "Hover Style"
-msgstr "Štýl po prejdení myšou"
+msgstr "Štýl pri nábehu myšou"
 
 #: themes/Impreza/framework/config/header-settings.php:1109
 #: themes/Impreza/framework/config/theme-options.php:1896
@@ -2624,11 +2631,11 @@ msgstr "Slide"
 
 #: themes/Impreza/framework/config/header-settings.php:1230
 msgid "Hover Background Color"
-msgstr "Farba pozadia po prejdení myšou"
+msgstr "Farba pozadia pri nábehu myši"
 
 #: themes/Impreza/framework/config/header-settings.php:1244
 msgid "Hover Text Color"
-msgstr "Farba textu pre prejdení"
+msgstr "Farba textu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/mega-menu.php:11
 msgid "Dropdown Columns"
@@ -2883,7 +2890,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/theme-options.php:207
 msgid "Show for site visitors only specific page"
-msgstr "Zobraziť návštevníkom stránky len konkrétnu stránku"
+msgstr "Návštevníkom sa zobrazí len zvolená stránka"
 
 #: themes/Impreza/framework/config/theme-options.php:219
 msgid ""
@@ -2899,7 +2906,7 @@ msgstr "Povoliť \"503 Service Unavailable\" status"
 
 #: themes/Impreza/framework/config/theme-options.php:232
 msgid "Preloader Screen"
-msgstr "Stránka s načítaním"
+msgstr "Preloader pri načítaní stránky"
 
 #: themes/Impreza/framework/config/theme-options.php:235
 msgid "Disabled"
@@ -2912,7 +2919,7 @@ msgstr "Deaktivované"
 #: themes/Impreza/framework/config/theme-options.php:240
 #, php-format
 msgid "Shows Preloader %d"
-msgstr "Ukázať Preloader %d"
+msgstr "Zobrazuje Preloader %d"
 
 #: themes/Impreza/framework/config/theme-options.php:241
 msgid "Shows Custom Image"
@@ -2920,11 +2927,11 @@ msgstr "Zobraziť vlastný obrázok"
 
 #: themes/Impreza/framework/config/theme-options.php:252
 msgid "Rounded Corners"
-msgstr "Okrúhle rohy"
+msgstr "Zaoblené rohy"
 
 #: themes/Impreza/framework/config/theme-options.php:254
 msgid "Enable rounded corners of theme elements"
-msgstr "Aktivovať okrúhle prvky na téme"
+msgstr "Aktivovať zaoblené rohy na prvkoch témy"
 
 #: themes/Impreza/framework/config/theme-options.php:258
 msgid "Links Underline"
@@ -2932,7 +2939,7 @@ msgstr "Podčiarknúť odkazy"
 
 #: themes/Impreza/framework/config/theme-options.php:260
 msgid "Underline text links on hover"
-msgstr "Podčiarknúť odkaz po zobrazení myšou"
+msgstr "Podčiarknuť odkaz pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:264
 msgid "Keyboard Accessibility"
@@ -3123,7 +3130,7 @@ msgstr "Farba textu hlavnej časti"
 
 #: themes/Impreza/framework/config/theme-options.php:523
 msgid "Main Area Text Hover Color"
-msgstr "Farba textu po prejdení v hlavnej časti"
+msgstr "Farba textu hlavnej časti pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:527
 msgid "Bottom Area Background Color"
@@ -3135,7 +3142,7 @@ msgstr "Farba textu v spodnej časti"
 
 #: themes/Impreza/framework/config/theme-options.php:535
 msgid "Bottom Area Text Hover Color"
-msgstr "Farba textu po prejdení v spodnej časti"
+msgstr "Farba textu spodnej časti pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:539
 msgid "Transparent Header Text Color"
@@ -3143,7 +3150,7 @@ msgstr "Farba textu priehľadnej hlavičky"
 
 #: themes/Impreza/framework/config/theme-options.php:543
 msgid "Transparent Header Hover Text Color"
-msgstr "Farba textu priehľadnej hlavičky po nábehu myšou"
+msgstr "Farba textu priehľadnej hlavičky pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:547
 msgid "Search Field Background Color"
@@ -3175,11 +3182,11 @@ msgstr "Farba textu aktívneho menu"
 
 #: themes/Impreza/framework/config/theme-options.php:585
 msgid "Menu Hover Background Color"
-msgstr "Farba pozadia menu po nábehu myšou"
+msgstr "Farba pozadia menu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:589
 msgid "Menu Hover Text Color"
-msgstr "Farba textu menu po nábehu myšou"
+msgstr "Farba textu menu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:593
 msgid "Dropdown Background Color"
@@ -3191,11 +3198,11 @@ msgstr "Farba textu dropdownu"
 
 #: themes/Impreza/framework/config/theme-options.php:601
 msgid "Dropdown Hover Background Color"
-msgstr "Farba pozadia dropdownu po nábehu myšou"
+msgstr "Farba pozadia dropdownu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:605
 msgid "Dropdown Hover Text Color"
-msgstr "Farba textu dropdownu po nábehu myšou"
+msgstr "Farba textu dropdownu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:609
 msgid "Dropdown Active Background Color"
@@ -3219,7 +3226,7 @@ msgstr "Farba pozadia tlačidla menu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:629
 msgid "Menu Button Hover Text Color"
-msgstr "Farba textu menu tlačidla pri nábehu myšou"
+msgstr "Farba textu tlačidla v menu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:641
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row.php:105
@@ -3250,7 +3257,7 @@ msgstr "Farba záhlavia"
 #: themes/Impreza/framework/config/theme-options.php:775
 #: themes/Impreza/framework/config/theme-options.php:813
 msgid "Link Hover Color"
-msgstr "Farba odkazu po nábehu myšou"
+msgstr "Farba odkazu pri nábehu myšou"
 
 #: themes/Impreza/framework/config/theme-options.php:675
 #: themes/Impreza/framework/config/theme-options.php:729
@@ -3892,7 +3899,7 @@ msgstr ""
 
 #: themes/Impreza/framework/config/theme-options.php:2734
 msgid "Manage Options"
-msgstr "Manažovať nastavenia"
+msgstr "Spravovať nastavenia"
 
 #: themes/Impreza/framework/config/theme-options.php:2738
 msgid "Reset Theme Options"
@@ -3904,7 +3911,7 @@ msgstr "Nastavenie zálohovanie témy"
 
 #: themes/Impreza/framework/config/theme-options.php:2746
 msgid "Transfer Theme Options"
-msgstr "Nastavenia transferu témy"
+msgstr "Preniesť nastavenia témy"
 
 #: themes/Impreza/framework/config/theme-options.php:2748
 msgid ""
@@ -4796,7 +4803,7 @@ msgstr "Aplikovať na meno a fotku"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_person.php:69
 #: themes/Zephyr/plugins-support/js_composer/map/us_person.php:20
 msgid "Simple (rounded photo)"
-msgstr "Jednoducho (okrúhle fotky)"
+msgstr "Jednoduché (okrúhle fotky)"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_person.php:71
 msgid "Compact (rounded photo)"
