@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.1\n"
+"X-Generator: Poedit 2.1.1\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: plugins/us-header-builder/config/meta-boxes.php:16
@@ -979,8 +979,8 @@ msgid ""
 "Most popular drag & drop WordPress page builder. Save tons of time working "
 "on your website content."
 msgstr ""
-"Najpopulárnejší potiahni a pusti Wordpress plugin pre tvorbu stránky. "
-"ušetrite množstvo času prácou na Vašej stránke."
+"Najpopulárnejší drag and drop Wordpress plugin pre tvorbu stránky. Ušetrí "
+"vám množstvo práce."
 
 #: themes/Impreza/framework/config/addons.php:24
 msgid ""
@@ -5079,7 +5079,7 @@ msgstr "Text citácie"
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row.php:38
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row_inner.php:24
 msgid "Columns Content Position"
-msgstr "Pozícia stĺpcov obsahu"
+msgstr "Umiestnenie obsahu stĺpcov"
 
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row.php:51
 #: themes/Impreza/framework/plugins-support/js_composer/map/vc_row_inner.php:37
