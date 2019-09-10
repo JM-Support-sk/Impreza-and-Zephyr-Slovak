@@ -14,3 +14,9 @@ https://help.us-themes.com/impreza/translation/translating/
 More info in Slovak:
 https://www.jmsupport.sk/tvorba-webovych-stranok/webove-stranky-s-temou-impreza/
 
+
+Languages folder:
+- child theme
+- create languages there
+- standard names (sk_SK.mo/po)
+
