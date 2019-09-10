@@ -270,7 +270,7 @@ msgstr ""
 #: plugins/us-core/admin/functions/theme-updater.php:191
 #, php-format
 msgid "%sActivate the theme%s to update it"
-msgstr ""
+msgstr "%sAktivujte tému%s, ak ju chcete aktualizovať"
 
 #: plugins/us-core/config/assets.php:26
 #: plugins/us-core/config/elements/image.php:109
@@ -1064,7 +1064,7 @@ msgstr ""
 
 #: plugins/us-core/config/elements/cform.php:52
 msgid "Agreement checkbox"
-msgstr ""
+msgstr "Checkbox so súhlasom"
 
 #: plugins/us-core/config/elements/cform.php:53
 msgid "Captcha"
@@ -1167,7 +1167,7 @@ msgstr "Fax"
 
 #: plugins/us-core/config/elements/counter.php:8
 msgid "Animated number with text"
-msgstr ""
+msgstr "Animované číslo s textom"
 
 #: plugins/us-core/config/elements/counter.php:13
 msgid "Initial counting value"
@@ -1588,7 +1588,7 @@ msgstr "Farba kruhu ikony"
 
 #: plugins/us-core/config/elements/flipbox.php:144
 msgid "Above Title"
-msgstr ""
+msgstr "Nad nadpisom"
 
 #: plugins/us-core/config/elements/flipbox.php:145
 msgid "Below Title"
@@ -2727,7 +2727,7 @@ msgstr ""
 #: plugins/us-core/config/elements/popup.php:194
 #: plugins/us-core/config/elements/popup.php:195
 msgid "3D Flip"
-msgstr ""
+msgstr "3D flip"
 
 #: plugins/us-core/config/elements/popup.php:194
 #: plugins/us-core/config/header-settings.php:54
@@ -2827,7 +2827,7 @@ msgstr "Celý obsah"
 
 #: plugins/us-core/config/elements/post_content.php:40
 msgid "Amount of words in Excerpt"
-msgstr ""
+msgstr "Počet slov v úryvku"
 
 #: plugins/us-core/config/elements/post_content.php:41
 #: plugins/us-core/config/elements/post_content.php:54
@@ -2840,7 +2840,7 @@ msgstr ""
 
 #: plugins/us-core/config/elements/post_content.php:53
 msgid "Amount of words in Content"
-msgstr ""
+msgstr "Počet slov v obsahu"
 
 #: plugins/us-core/config/elements/post_custom_field.php:11
 #: plugins/us-core/config/meta-boxes.php:186
@@ -3068,7 +3068,7 @@ msgstr "Výška Progress baru"
 
 #: plugins/us-core/config/elements/scroller.php:8
 msgid "Accurate scroll to page sections"
-msgstr ""
+msgstr "Presné posúvanie na časti strany"
 
 #: plugins/us-core/config/elements/scroller.php:13
 msgid "Disable scrolling at width"
@@ -3165,7 +3165,7 @@ msgstr ""
 #: plugins/us-core/config/elements/separator.php:45
 #, php-format
 msgid "%s of container width"
-msgstr ""
+msgstr "%s šírky kontajnera"
 
 #: plugins/us-core/config/elements/separator.php:52
 msgid "Line Thickness"
@@ -3222,7 +3222,7 @@ msgstr "Share Counters"
 
 #: plugins/us-core/config/elements/sharing.php:79
 msgid "Allow to share selected text"
-msgstr ""
+msgstr "Povoliť zdieľanie vybratého textu"
 
 #: plugins/us-core/config/elements/sharing.php:80
 msgid ""
@@ -4086,9 +4086,9 @@ msgid "Show Button after page is scrolled to"
 msgstr ""
 
 #: plugins/us-core/config/theme-options.php:726
-#, php-format
+#, fuzzy, php-format
 msgid "1vh equals 1% of the screen height"
-msgstr ""
+msgstr "1vh sa rovná 1% výšky obrazovky"
 
 #: plugins/us-core/config/theme-options.php:742
 msgid "Smooth Scroll Duration"
@@ -4325,7 +4325,7 @@ msgstr "Farby obsahu"
 #: plugins/us-core/config/theme-options.php:1471
 #: plugins/us-core/config/theme-options.php:1509
 msgid "Alternate Background"
-msgstr ""
+msgstr "Alternatívne pozadie"
 
 #: plugins/us-core/config/theme-options.php:1371
 #: plugins/us-core/config/theme-options.php:1425
@@ -4973,7 +4973,7 @@ msgstr "Archívne stránky"
 #: plugins/us-core/plugins-support/js_composer/js_composer.php:695
 #: plugins/us-core/usof/templates/fields/design_options.php:53
 msgid "Absolute Positioning"
-msgstr ""
+msgstr "Absolútna pozícia"
 
 #: plugins/us-core/plugins-support/js_composer/js_composer.php:812
 #: plugins/us-core/usof/templates/fields/icon.php:55
@@ -5034,7 +5034,7 @@ msgstr ""
 #: plugins/us-core/plugins-support/js_composer/map/vc_row.php:27
 #: plugins/us-core/plugins-support/js_composer/map/vc_row_inner.php:13
 msgid "Additional gap"
-msgstr ""
+msgstr "Dodatočná medzera"
 
 #: plugins/us-core/plugins-support/js_composer/map/vc_row.php:58
 #: plugins/us-core/plugins-support/js_composer/map/vc_row_inner.php:53
@@ -5199,7 +5199,7 @@ msgstr "Act as Toggles"
 
 #: plugins/us-core/plugins-support/js_composer/map/vc_tta_accordion.php:59
 msgid "Allow several sections to be opened at the same time"
-msgstr "Umožniť niekoľko sekcií byť naraz otvorených"
+msgstr "Povoliť otvorenie viacerých sekcií v rovnakom čase"
 
 #: plugins/us-core/plugins-support/js_composer/map/vc_tta_accordion.php:65
 msgid "Title Alignment"
@@ -5406,7 +5406,7 @@ msgstr "Záloha bola obnovená"
 #: plugins/us-core/usof/functions/ajax.php:290
 #: plugins/us-core/usof/templates/fields/color.php:63
 msgid "Add the current color to the palette"
-msgstr ""
+msgstr "Pridať aktuálnu farbu na paletu"
 
 #: plugins/us-core/usof/functions/interface.php:63
 #: plugins/us-core/usof/templates/fields/style_scheme.php:33
@@ -5446,7 +5446,7 @@ msgstr "Ste si istý, že chcete obnoviť nastavenia zo zálohy?"
 
 #: plugins/us-core/usof/templates/fields/check_table.php:62
 msgid "All sizes in kilobytes"
-msgstr ""
+msgstr "Všetky veľkosti v kilobajtoch"
 
 #: plugins/us-core/usof/templates/fields/design_options.php:25
 #: plugins/us-core/usof/templates/fields/header_builder.php:25
