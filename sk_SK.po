@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: plugins/us-core/admin/functions/demo-import.php:16
@@ -5305,7 +5305,7 @@ msgstr "Pridať nový"
 #: plugins/us-core/templates/form/text.php:86
 #: plugins/us-core/templates/form/textarea.php:85
 msgid "Fill out this field"
-msgstr ""
+msgstr "Vyplňte toto pole"
 
 #: plugins/us-core/templates/elements/cart.php:42
 msgid "was added to your cart"
@@ -5363,7 +5363,7 @@ msgstr ""
 
 #: plugins/us-core/templates/form/captcha.php:84
 msgid "Enter the equation result to proceed"
-msgstr ""
+msgstr "Pre pokračovanie zadajte výsledok rovnice"
 
 #: plugins/us-core/templates/form/checkboxes.php:75
 #: plugins/us-core/templates/form/radio.php:83
